@@ -1,0 +1,40 @@
+<svg viewBox="0 0 1400 320" width="1400" height="320">
+ <defs>
+  <style>
+   <![CDATA[
+   @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+   ]]>
+  </style>
+ </defs>
+ <path d="M 40 0 H 1400 V 340 H 0 V 40 Z" fill="#741B47" stroke-width="0" />
+ <path d="
+   M 80 60 v 20 h 20 v -20 Z
+   M 80 90 v 20 h 20 v -20 Z
+   M 80 150 v 20 h 20 v -20 Z
+   M 80 180 v 20 h 20 v -20 Z
+   M 80 210 v 20 h 20 v -20 Z
+   M 80 240 v 20 h 20 v -20 Z
+   M 110 60 v 20 h 20 v -20 Z
+   M 110 90 v 20 h 20 v -20 Z
+   M 110 120 v 20 h 20 v -20 Z
+   M 110 180 v 20 h 20 v -20 Z
+   M 110 210 v 20 h 20 v -20 Z
+   M 140 60 v 20 h 20 v -20 Z
+   M 140 90 v 20 h 20 v -20 Z
+   M 140 180 v 20 h 20 v -20 Z
+   M 140 240 v 20 h 20 v -20 Z
+   M 170 60 v 20 h 20 v -20 Z
+   M 170 90 v 20 h 20 v -20 Z
+   M 170 120 v 20 h 20 v -20 Z
+   M 170 210 v 20 h 20 v -20 Z
+   M 200 90 v 20 h 20 v -20 Z
+   M 200 120 v 20 h 20 v -20 Z
+   M 200 150 v 20 h 20 v -20 Z
+   M 200 240 v 20 h 20 v -20 Z
+   M 230 90 v 20 h 20 v -20 Z
+   M 230 120 v 20 h 20 v -20 Z
+   M 230 180 v 20 h 20 v -20 Z
+   M 230 210 v 20 h 20 v -20 Z
+  " fill="#ffffff" stroke-width="0" />
+ <text font-family="Orbitron" alignment-baseline="middle" x="320" y="170" font-size="220" fill="#ffffff">Over96</text>
+</svg>
